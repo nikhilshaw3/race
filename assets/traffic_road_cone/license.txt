@@ -1,0 +1,11 @@
+Model Information:
+* title:	Traffic Road Cone
+* source:	https://sketchfab.com/3d-models/traffic-road-cone-e08828678dab474baac6ecd120fa0b3c
+* author:	younesbelhit (https://sketchfab.com/younesbelhit)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Traffic Road Cone" (https://sketchfab.com/3d-models/traffic-road-cone-e08828678dab474baac6ecd120fa0b3c) by younesbelhit (https://sketchfab.com/younesbelhit) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
